@@ -1,0 +1,68 @@
+ECE 207 Network Analysis I(TEXTFILE)
+Class#: 50697 Teacher: Zekeriya Aliyazicioglu      Day:MW, Time:8-9:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 207 Network Analysis I LAB(TEXTFILE)
+Class#: 50698 Teacher: Hong-Chuan Lin      Day:R, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 209 Network Analysis II(TEXTFILE)
+Class#: 50699 Teacher: Rajan Chandra      Day:MW, Time:6-7:15PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 209 Network Analysis II LAB(TEXTFILE)
+Class#: 50700 Teacher: Saeed Monemi      Day:T, Time:9-11:50AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 220 Electronic Devices and Circuits(TEXTFILE)
+Class#: 50702 Teacher: Brita Olson      Day:MW, Time:10-11:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 220 Electronics LAB(TEXTFILE)
+Class#: 50845 Teacher: Brita Olson      Day:R, Time:3-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering(TEXTFILE)
+Class#: 50703 Teacher: Saeed Monemi      Day:MW, Time:10-11:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering(TEXTFILE)
+Class#: 50704 Teacher: Saeed Monemi      Day:MW, Time:8-9:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering(TEXTFILE)
+Class#: 50968 Teacher: Hong-Chuan Lin      Day:TR, Time:10-11:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering LAB(TEXTFILE)
+Class#: 50705 Teacher: Saeed Monemi      Day:M, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering LAB(TEXTFILE)
+Class#: 50706 Teacher: Sumanth Nandikanti      Day:T, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering LAB(TEXTFILE)
+Class#: 50969 Teacher: Saeed Monemi      Day:W, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 231 Elements of Electrical Engineering LAB(TEXTFILE)
+Class#: 50970 Teacher: Sumanth Nandikanti      Day:R, Time:3-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 256 Object Oriented Programming(TEXTFILE)
+Class#: 50707 Teacher: Saeed Monemi      Day:MW, Time:4-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 302 Electromagnetic Fields(TEXTFILE)
+Class#: 50708 Teacher: James Kang      Day:TR, Time:8-9:50AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 306 Discrete Time Signals(TEXTFILE)
+Class#: 50709 Teacher: James Kang      Day:TR, Time:10-11:50AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 306 Discrete Time Signals Lab(TEXTFILE)
+Class#: 50710 Teacher: Zekeriya Aliyazicioglu      Day:T, Time:3-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 309 Control Systems Engineering(TEXTFILE)
+Class#: 50712 Teacher: Rajan Chandra      Day:MW, Time:2-3:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 315 Probablity Statistics and Random Processes(TEXTFILE)
+Class#: 50713 Teacher: Hong-Chuan Lin      Day:TR, Time:6-7:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 325 Electronic Design of Digital Circuits(TEXTFILE)
+Class#: 50715 Teacher: Brita Olson      Day:MW, Time:4-5:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 325 Electronic Design of Digital Circuits LAB(TEXTFILE)
+Class#: 50716 Teacher: Brita Olson      Day:T, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 330 Intro to SemiConductor Devices(TEXTFILE)
+Class#: 50717 Teacher: Brita Olson      Day:MW, Time:12-1:15PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 341 Intro to Microcontrollers(TEXTFILE)
+Class#: 50718 Teacher: Mohamed Rafiquzzaman      Day:MW, Time:12-1:15PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 341 Intro to Microcontrollers(TEXTFILE)
+Class#: 51011 Teacher: Rajan Chandra      Day:MW, Time:8-9:15AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 341 Intro to Microcontrollers LAB(TEXTFILE)
+Class#: 50719 Teacher: Mohamed Rafiquzzaman      Day:T, Time:3-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 341 Intro to Microcontrollers LAB(TEXTFILE)
+Class#: 51012 Teacher: Tarek Elsharhawy      Day:T, Time:3-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 343 Microcontrollers I(TEXTFILE)
+Class#: 50720 Teacher: Mohamed Rafiquzzaman      Day:MW, Time:2-3:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 343 Microcontrollers I(TEXTFILE)
+Class#: 50932 Teacher: Mohamed Rafiquzzaman      Day:MW, Time:4-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 343 Microcontrollers I LAB(TEXTFILE)
+Class#: 50721 Teacher: Mohamed Rafiquzzaman      Day:T, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 343 Microcontrollers I LAB(TEXTFILE)
+Class#: 50943 Teacher: Adrian Gonzalez      Day:T, Time:12-2:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 405 Communcation Systems(TEXTFILE)
+Class#: 50722 Teacher: Zekeriya Aliyazicioglu      Day:MW, Time:10-11:50AM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 408 Digital Signal Processing(TEXTFILE)
+Class#: 50723 Teacher: James Kang      Day:MW, Time:6-7:15PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 429 Application Development with JAVA(TEXTFILE)
+Class#: 50724 Teacher: Hong-Chuan Lin      Day:MW, Time:4-5:50PM  Meet Dates: 06/20/2016 - 08/25/2016
+ECE 544 Communication Theory(TEXTFILE)
+Class#: 50829 Teacher: James Kang      Day and Time TBA  Meet Dates: 06/20/2016 - 08/25/2016
